@@ -9,26 +9,12 @@ Our overarching postulate dictates that intelligence must not be confined by phy
 
 II. The 4-Tier Decoupled Architecture We systematically dismantle conventional Monolithic Weights into four distinct physical strata, each governed by an idiosyncratic lifecycle, to construct a completely dynamic cognitive system:
 
-Tier Nomenclature
-Technical Designation
-Physical Modality
-Core Functionality
-Brain
-Reasoning Brain
-Static VRAM Residency
-Purely logical algorithmic and syntactic construct weights, provisioning robust inference and causal analysis.
-Brain Knowledge
-Base Wisdom
-Static VRAM Residency
-The foundational substratum of human common sense and fundamental semantics, ensuring the AI retains socialized intuition during elementary discourse.
-Modular Knowledge
-Expert Shards
-On-Demand Dynamic Mounting
-Facilitates physical-level weight permutation. Instantly injects expert weights into the computational flux to address highly specialized inquiries.
-Discursive Knowledge
-Evolving Context
-On-Demand Dynamic Mounting
-Conversational context and real-time logical nexus. Solidifies the logic derived during discourse into individualized, idiosyncratic knowledge paradigms.
+| Tier Nomenclature | Technical Designation | Physical Modality | Core Functionality |
+| :--- | :--- | :--- | :--- |
+| Brain | Reasoning Brain | Static VRAM Residency | Purely logical algorithmic and syntactic construct weights, provisioning robust inference and causal analysis. |
+| Brain Knowledge | Base Wisdom | Static VRAM Residency | The foundational substratum of human common sense and fundamental semantics, ensuring the AI retains socialized intuition during elementary discourse. |
+| Modular Knowledge | Expert Shards | On-Demand Dynamic Mounting | Facilitates physical-level weight permutation. Instantly injects expert weights into the computational flux to address highly specialized inquiries. |
+| Discursive Knowledge | Evolving Context | On-Demand Dynamic Mounting | Conversational context and real-time logical nexus. Solidifies the logic derived during discourse into individualized, idiosyncratic knowledge paradigms. |
 
 III. Future Trajectories
 
