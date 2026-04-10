@@ -6,7 +6,7 @@ from safetensors.torch import load_file
 # =========================
 
 model_path = r"F:\ai\model.safetensors"
-output_path = r"F:\ai\model_weights.pt"
+output_path = r"F:\ai\brain_weights.pt"
 
 print("Loading safetensors...")
 
